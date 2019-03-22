@@ -1,0 +1,11 @@
+ID,Summary,Cc
+540776,Chromium should support ePub by default,"sabi...@chromium.org, vabr@chromium.org"
+540770,Incorrect post_local_scale_factor in transform node when the page scale layer is root.,"cmumford@chromium.org, micha...@chromium.org"
+541544,"Regression : Text is seen Overlapped in Textbox on clicking play button for ""Do it (Tomorrow)"" App","a...@chromium.org, brajku...@chromium.org, durga.be...@chromium.org, kavv...@chromium.org"
+541533,Distributions can create a cycle and detach until stack overflow,"dglazkov@chromium.org, dominicc@chromium.org, esprehn@chromium.org, hayato@chromium.org, kochi@chromium.org, rune@opera.com"
+541493,Text shifting when using word-break: break-all or keep-all on RTL Arabic text,"dr...@chromium.org, eae@chromium.org, kojii@chromium.org, szager@chromium.org"
+540869,Cookie Monster can only notify a single delegate,"bettes@chromium.org, raymes@chromium.org, tbuck...@chromium.org"
+540866,Implement native Pinch-Zoom for the PDF viewer,"d...@chromium.org, danakj@chromium.org, enne@chromium.org, eri...@chromium.org, piman@chromium.org, reveman@chromium.org, sunn...@chromium.org, vmi...@chromium.org, vmp...@chromium.org"
+541041,uncommonAttributeSelectors contains a lot of selectors in Polymer apps,ca...@chromium.org
+540503,Should throw TypeError instead of UnknownError when receiving ErrorTypeUnknown.,"garykac@chromium.org, kpschoe...@chromium.org, wez@chromium.org"
+540501,Binaries that are attached to the browser binary should be specified through browser_options,"fs...@chromium.org, rog...@chromium.org"

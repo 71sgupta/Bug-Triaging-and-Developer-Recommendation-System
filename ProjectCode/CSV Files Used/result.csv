@@ -1,0 +1,49 @@
+ID,Summary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+540776,Chromium should support ePub by default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+540770,Incorrect post_local_scale_factor in transform node when the page scale layer is root.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+541544,"Regression : Text is seen Overlapped in Textbox on clicking play button for ""Do it (Tomorrow)"" App",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+541533,Distributions can create a cycle and detach until stack overflow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+541493,Text shifting when using word-break: break-all or keep-all on RTL Arabic text,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+541047,Don't use old flexboxes in Chrome WebUI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+541043,"crbug's ""Summary"" field auto-clear logic interferes with reporting",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+541041,uncommonAttributeSelectors contains a lot of selectors in Polymer apps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+540503,Should throw TypeError instead of UnknownError when receiving ErrorTypeUnknown.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+540501,Binaries that are attached to the browser binary should be specified through browser_options,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"""aio...@chromium.org",,,,kojii@chromium.org,,,,brajku...@chromium.org,,,,esprehn@chromium.org,,,,"""dglazkov@chromium.org",,,,nedngu...@chromium.org,,,,"""d...@chromium.org",,,,0,,,,kojii@chromium.org,,,,kojii@chromium.org
+"vabr@chromium.org""",,,,"""dglazkov@chromium.org",,,,"""a...@chromium.org",,,,"slightly...@chromium.org""",,,,"wez@chromium.org""",,,,"zhenw@chromium.org""",,,,s...@chromium.org,,,,,,,,"""dglazkov@chromium.org",,,,"rog...@chromium.org"""
+"zhenw@chromium.org""",,,,kochi@chromium.org,,,,durga.be...@chromium.org,,,,"""dglazkov@chromium.org",,,,"""owe...@chromium.org",,,,"tbuck...@chromium.org""",,,,sunn...@chromium.org,,,,,,,,kochi@chromium.org,,,,"""dr...@chromium.org"
+"""a...@chromium.org",,,,"wez@chromium.org""",,,,"kavv...@chromium.org""",,,,kochi@chromium.org,,,,"""garykac@chromium.org",,,,"""nd...@chromium.org",,,,"vmp...@chromium.org""",,,,,,,,"wez@chromium.org""",,,,"lraffe...@gmail.com"""
+"sval...@chromium.org""",,,,"szager@chromium.org""",,,,"smok...@chromium.org""",,,,"""owe...@chromium.org",,,,"tim...@chromium.org""",,,,"""bettes@chromium.org",,,,vmi...@chromium.org,,,,,,,,"szager@chromium.org""",,,,eae@chromium.org
+pal...@chromium.org,,,,"""owe...@chromium.org",,,,"""mlamo...@chromium.org",,,,"rune@opera.com""",,,,"""dr...@chromium.org",,,,,,,,pere...@chromium.org,,,,,,,,"""owe...@chromium.org",,,,
+"""sabi...@chromium.org",,,,hirosh...@chromium.org,,,,"zhenw@chromium.org""",,,,dominicc@chromium.org,,,,kpschoe...@chromium.org,,,,,,,,primi...@chromium.org,,,,,,,,hirosh...@chromium.org,,,,
+eakuef...@chromium.org,,,,"""garykac@chromium.org",,,,"""dr...@chromium.org",,,,,,,,nyerrami...@chromium.org,,,,,,,,"""nick@chromium.org",,,,,,,,"""garykac@chromium.org",,,,
+davidben@chromium.org,,,,"tim...@chromium.org""",,,,leviw@chromium.org,,,,,,,,dominicc@chromium.org,,,,,,,,enne@chromium.org,,,,,,,,"tim...@chromium.org""",,,,
+,,,,"""dr...@chromium.org",,,,tnakamura@chromium.org,,,,,,,,esprehn@chromium.org,,,,,,,,petrcer...@chromium.org,,,,,,,,"""dr...@chromium.org",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"""aio...@chromium.org",,,,"wez@chromium.org""",,,,brajku...@chromium.org,,,,"slightly...@chromium.org""",,,,"wez@chromium.org""",,,,"tbuck...@chromium.org""",,,,"""d...@chromium.org",,,,0,,,,"wez@chromium.org""",,,,"rog...@chromium.org"""
+"vabr@chromium.org""",,,,"szager@chromium.org""",,,,durga.be...@chromium.org,,,,"""owe...@chromium.org",,,,"""owe...@chromium.org",,,,"""nd...@chromium.org",,,,s...@chromium.org,,,,,,,,"szager@chromium.org""",,,,"lraffe...@gmail.com"""
+"sval...@chromium.org""",,,,"""owe...@chromium.org",,,,"kavv...@chromium.org""",,,,"rune@opera.com""",,,,"""garykac@chromium.org",,,,"""bettes@chromium.org",,,,sunn...@chromium.org,,,,,,,,"""owe...@chromium.org",,,,kojii@chromium.org
+pal...@chromium.org,,,,hirosh...@chromium.org,,,,"""a...@chromium.org",,,,esprehn@chromium.org,,,,"tim...@chromium.org""",,,,nedngu...@chromium.org,,,,"vmp...@chromium.org""",,,,,,,,hirosh...@chromium.org,,,,"""dr...@chromium.org"
+"""sabi...@chromium.org",,,,"""garykac@chromium.org",,,,"""mlamo...@chromium.org",,,,"""dglazkov@chromium.org",,,,kpschoe...@chromium.org,,,,"zhenw@chromium.org""",,,,vmi...@chromium.org,,,,,,,,"""garykac@chromium.org",,,,eae@chromium.org
+eakuef...@chromium.org,,,,"tim...@chromium.org""",,,,leviw@chromium.org,,,,kochi@chromium.org,,,,nyerrami...@chromium.org,,,,,,,,pere...@chromium.org,,,,,,,,"tim...@chromium.org""",,,,
+davidben@chromium.org,,,,kojii@chromium.org,,,,tnakamura@chromium.org,,,,dominicc@chromium.org,,,,"""dglazkov@chromium.org",,,,,,,,primi...@chromium.org,,,,,,,,kojii@chromium.org,,,,
+"zhenw@chromium.org""",,,,"""dglazkov@chromium.org",,,,"zhenw@chromium.org""",,,,,,,,dominicc@chromium.org,,,,,,,,petrcer...@chromium.org,,,,,,,,"""dglazkov@chromium.org",,,,
+"""a...@chromium.org",,,,kochi@chromium.org,,,,"""dr...@chromium.org",,,,,,,,esprehn@chromium.org,,,,,,,,"""nick@chromium.org",,,,,,,,kochi@chromium.org,,,,
+,,,,"""dr...@chromium.org",,,,"smok...@chromium.org""",,,,,,,,"""dr...@chromium.org",,,,,,,,enne@chromium.org,,,,,,,,"""dr...@chromium.org",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"""a...@chromium.org",,,,kojii@chromium.org,,,,durga.be...@chromium.org,,,,kavv...@chromium.org,,,,kojii@chromium.org,,,,kavv...@chromium.org,,,,kavv...@chromium.org,,,,kavv...@chromium.org,,,,kojii@chromium.org,,,,kavv...@chromium.org
+kojii@chromium.org,,,,"""dglazkov@chromium.org",,,,"kavv...@chromium.org""",,,,kojii@chromium.org,,,,"""dglazkov@chromium.org",,,,kojii@chromium.org,,,,"""dglazkov@chromium.org",,,,kojii@chromium.org,,,,"""dglazkov@chromium.org",,,,kojii@chromium.org
+"""dglazkov@chromium.org",,,,kochi@chromium.org,,,,brajku...@chromium.org,,,,"""dglazkov@chromium.org",,,,kochi@chromium.org,,,,"""dglazkov@chromium.org",,,,s...@chromium.org,,,,"""dglazkov@chromium.org",,,,"wez@chromium.org""",,,,"""dr...@chromium.org"
+kochi@chromium.org,,,,"szager@chromium.org""",,,,"""a...@chromium.org",,,,kochi@chromium.org,,,,"szager@chromium.org""",,,,kochi@chromium.org,,,,sunn...@chromium.org,,,,kochi@chromium.org,,,,kochi@chromium.org,,,,eae@chromium.org
+"szager@chromium.org""",,,,"""owe...@chromium.org",,,,kojii@chromium.org,,,,"""owe...@chromium.org",,,,hirosh...@chromium.org,,,,"szager@chromium.org""",,,,"vmp...@chromium.org""",,,,"szager@chromium.org""",,,,"szager@chromium.org""",,,,"""dglazkov@chromium.org"
+"vabr@chromium.org""",,,,hirosh...@chromium.org,,,,"smok...@chromium.org""",,,,"szager@chromium.org""",,,,durga.be...@chromium.org,,,,"tbuck...@chromium.org""",,,,"rune@opera.com""",,,,durga.be...@chromium.org,,,,"""garykac@chromium.org",,,,kochi@chromium.org
+"zhenw@chromium.org""",,,,"tim...@chromium.org""",,,,"sabi...@chromium.org""",,,,"rune@opera.com""",,,,"tim...@chromium.org""",,,,"zhenw@chromium.org""",,,,"""dr...@chromium.org",,,,"rune@opera.com""",,,,hirosh...@chromium.org,,,,"rog...@chromium.org"""
+durga.be...@chromium.org,,,,"""dr...@chromium.org",,,,"szager@chromium.org""",,,,durga.be...@chromium.org,,,,"""dr...@chromium.org",,,,durga.be...@chromium.org,,,,dominicc@chromium.org,,,,"""dr...@chromium.org",,,,"tim...@chromium.org""",,,,"szager@chromium.org"""
+"rune@opera.com""",,,,nyerrami...@chromium.org,,,,"""dr...@chromium.org",,,,"""dr...@chromium.org",,,,nyerrami...@chromium.org,,,,"rune@opera.com""",,,,pere...@chromium.org,,,,dominicc@chromium.org,,,,"""dr...@chromium.org",,,,durga.be...@chromium.org
+"""dr...@chromium.org",,,,dominicc@chromium.org,,,,kavv...@chromium.org,,,,dominicc@chromium.org,,,,dominicc@chromium.org,,,,"""nd...@chromium.org",,,,primi...@chromium.org,,,,"kavv...@chromium.org""",,,,kpschoe...@chromium.org,,,,"rune@opera.com"""

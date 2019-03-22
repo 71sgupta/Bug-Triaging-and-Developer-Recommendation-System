@@ -1,0 +1,101 @@
+ID,Summary
+541553,policy_templates.json is unclear
+541544,"Regression : Text is seen Overlapped in Textbox on clicking play button for ""Do it (Tomorrow)"" App"
+541533,Distributions can create a cycle and detach until stack overflow
+541493,Text shifting when using word-break: break-all or keep-all on RTL Arabic text
+541483,display: none causes element.width to return 0
+541475,"'Vertical horizontal' goes outside of the window, hence unable to scroll by scrollbar, on 'Devtools' window"
+541469,"Regression: ""Add to palette"" ('+')  sign is not visible after clicking multiple time on it in color picker window."
+541460,Label of a checkbox disappearing when it is unchecked
+541441,Add support for local path priority-groups in dependency manager
+541439,Unify the API of telemetry unittests runner with benchmark runner
+541427,mandoline layout test runner crashes
+541390,bluetooth: Unregister characteristic from BluetoothDispatcherHost when the object has no more listeners
+541388,bluetooth: Add support for multiple frames for characteristic events.
+541372,Implement P1 UMA metrics for Media Router
+541354,Save-Page-As: Raciness when saving a dynamically changing page
+541347,"DevTools: ""Tracing already started"" on angular dbmon. "
+541343,md downloads page needs to distinguish between dangerous and malicious downloads to match shelf
+541342,Save-Page-As: never completes when saving a crashed page 
+541330,Sync min backoff interval is way too long
+541315,Add support for Finch experiment
+541311,"MouseEvent ""buttons"" fails to reach from eventSender to DOM dispatcher"
+541290,Initial download of components is too slow for some use cases.
+541257,RSA Exponent = 1 is not rejected as insecure
+541253,add regression test for search engine detection
+541246,Add new receiver icon for MR UI
+541243,Need basic apptest for mandoline browser
+541223,skym debug bug
+541222,"RecordUMAStatistics() in about_flags.cc should be made into a histogram, instead of actions"
+541193,"nbsp show as zero width using ""allerregular"" font"
+541191,Move telemetry_binary_manager.isolate to tools/perf
+541178,Accessibility tree selection offsets off when document contains collapsable whitespace
+541153,Images in 2nd column not showing Chrome Only. Used to work 3 weeks ago. 
+541135,15% regression on memory.long_running_idle_gmail_background 
+541129,Regression: Unnecessary autofill suggestion appears on the 'Search' field in 'Vijaysales.com'.
+541125,Layout Test imported/web-platform-tests/html/semantics/grouping-content/the-ol-element/ol.start-reflection-2.html is failing
+541121,Change HUD display.
+541120,Unable to click hyperlink after rotating the preview clockwise for pdf page.
+541119,"Regression: Vertical scroll bar blinks on clicking 'Sign up' and 'Log in' button at ""www.pinterest.com""."
+541098,Regression: Weird pagination highlight is seen on 'www.bharatpetroleum.co.in'.
+541097,Regression: Preview of the page is not displayed properly.
+541083,Regression: 'remove this site' text alignment is not shown properly in chrome://settings/handlers.
+541077,Regression: In 'chrome://extensions' page 'Reload' and 'Launch' link gets misplaced on reloading  V2 app.
+541068,Non-Regression : Page numbers in PDF File are seen Chopped on changing font size to small
+541049,"Experiment: extra message ""<unknown> - didFinishLoading"" is shown when disabling BackgroundHTMLParser"
+541047,Don't use old flexboxes in Chrome WebUI
+541043,"crbug's ""Summary"" field auto-clear logic interferes with reporting"
+541041,uncommonAttributeSelectors contains a lot of selectors in Polymer apps
+541032,Regression: chrome://crash url disappears in the omnibox on navigating to chrome://kill or chrome://crashdump.
+541000,Tag RTP dump packets with port number
+540991,Styling ::content inflates layout recalc time under some conditions
+540978,"document.execCommand() should not count as a ""user edit"" for the purposes of ValidityState.tooLong"
+540965,Add WebContentsObserver APIs to notify of WebContents capture changes
+540941,Adapt _securityStateMin to share a SecurityStateComparator with the origin list
+540931,mus needs to offer a readback API to RootView owners
+540929,cc software path in mus
+540916,Two webgl extension conformance tests fails with --js-flags=--expose-gc
+540915,Cannot launch new window from hamburger menu
+540900,conformance/extensions/ext-sRGB.html fails
+540893,Investigate two disabled LayoutTest edge cases for newline selection.
+540870,Port all legacy timeline-based metrics to JavaScript
+540869,Cookie Monster can only notify a single delegate
+540866,Implement native Pinch-Zoom for the PDF viewer
+540864,[META] Devtools Device Mode V2
+540855,Overflow-auto on a container that has non-round dimensions truncates its content by 1px
+540854,"<link rel=""search""> search engine detection is broken"
+540844,DevTools: [timeline tree view] Performance
+540839,DevTools: Crop timeline view to main content
+540838,WebRTC stats don't accurately display candidates that use tcp to talk to turn
+540835,Implement mock MRP for Media Router integration tests
+540826,Remove secondary rotation icon and move bookmarks to the right-hand side
+540814,Sync: Detection whether the initial download has finished for a type is broken
+540809,Checkerboard at gpu service draw time
+540803,"[PresentationAPI] Update PresentationConnection.{terminate,close} to match spec"
+540801,GN builds failed at PNacl verification step
+540782,SVGTextLayoutEngine::layoutTextOnLineOrPath() should use HarfBuzzShaper better
+540776,Chromium should support ePub by default
+540770,Incorrect post_local_scale_factor in transform node when the page scale layer is root.
+540769,EME: Add tests for robustness strings
+540761,Add support for the imageSmoothingQuality property for CanvasRenderingContext2D
+540704,Call might fail when stun server is not resolvable and IP permission denied
+540701,Group all the members in TaskQueueImpl protected by the lock into a struct
+540685,Can't measure real usage of DOM Event properties 
+540676,backface-visibility: hidden gives rendering issues with table borders together with fixed cell content
+540668,Oilpan wants to know the timing V8 starts marking
+540661,Regression:Blue background flashes on reloading the support.google.com page.
+540650,Remove content settings with invalid values
+540616,Regression: No any text overlay showing info for selected option is seen for the videos.
+540615,"Some audio_unittests work with Audio{Input,Output}Stream(s) outside of AudioThread"
+540611,Regression: Affiliated matches no longer have an indication of their original source
+540609,Do not create copy of affiliated matches when they are filled
+540546,HTMLToken-family conversions are inconsistent in attributes with empty value
+540542,Experiment: run HTMLDocumentParser without threading
+540539,PDF: Change title of outer plugin container to match truncated PDF filename
+540528,Intent to Implement Intersection Observer
+540509,Foreign Fetch
+540507,"Split out ""autofilled none"" metric by suggestions surfaced or not"
+540503,Should throw TypeError instead of UnknownError when receiving ErrorTypeUnknown.
+540501,Binaries that are attached to the browser binary should be specified through browser_options
+540499,Fixed attachment background image not rendered on page scroll
+540496,Disambiguate between empty manifest and failed manifest download
